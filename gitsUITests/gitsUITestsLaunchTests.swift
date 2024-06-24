@@ -1,13 +1,13 @@
 //
-//  lullabyUITestsLaunchTests.swift
-//  lullabyUITests
+//  gitsUITestsLaunchTests.swift
+//  gitsUITests
 //
 //  Created by Alvin Miftah on 19/06/24.
 //
 
 import XCTest
 
-final class lullabyUITestsLaunchTests: XCTestCase {
+final class gitsUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

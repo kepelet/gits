@@ -7,13 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DCE390572C22EBD00073B44E /* lullabyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE390562C22EBD00073B44E /* lullabyApp.swift */; };
+		DC4DEBF82C271A0B00446F10 /* PlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC4DEBF72C271A0B00446F10 /* PlayerView.swift */; };
+		DCD9F2862C243419009D135B /* TimeConterter.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD9F2852C243419009D135B /* TimeConterter.swift */; };
+		DCD9F2892C243F0D009D135B /* TrackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD9F2882C243F0D009D135B /* TrackView.swift */; };
+		DCD9F28B2C2440E4009D135B /* PlaylistTrackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD9F28A2C2440E4009D135B /* PlaylistTrackView.swift */; };
+		DCE390572C22EBD00073B44E /* gitsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE390562C22EBD00073B44E /* gitsApp.swift */; };
 		DCE390592C22EBD00073B44E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE390582C22EBD00073B44E /* ContentView.swift */; };
 		DCE3905B2C22EBD40073B44E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCE3905A2C22EBD40073B44E /* Assets.xcassets */; };
 		DCE3905E2C22EBD40073B44E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCE3905D2C22EBD40073B44E /* Preview Assets.xcassets */; };
-		DCE390682C22EBD40073B44E /* lullabyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE390672C22EBD40073B44E /* lullabyTests.swift */; };
-		DCE390722C22EBD40073B44E /* lullabyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE390712C22EBD40073B44E /* lullabyUITests.swift */; };
-		DCE390742C22EBD40073B44E /* lullabyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE390732C22EBD40073B44E /* lullabyUITestsLaunchTests.swift */; };
+		DCE390682C22EBD40073B44E /* gitsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE390672C22EBD40073B44E /* gitsTests.swift */; };
+		DCE390722C22EBD40073B44E /* gitsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE390712C22EBD40073B44E /* gitsUITests.swift */; };
+		DCE390742C22EBD40073B44E /* gitsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE390732C22EBD40073B44E /* gitsUITestsLaunchTests.swift */; };
+		DCE390822C22EC030073B44E /* PlaylistTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE390812C22EC030073B44E /* PlaylistTrack.swift */; };
+		DCE390872C22ED2F0073B44E /* PlaylistTrackViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE390862C22ED2F0073B44E /* PlaylistTrackViewModel.swift */; };
+		DCE390892C22EDEB0073B44E /* PlaylistTrack.json in Resources */ = {isa = PBXBuildFile; fileRef = DCE390882C22EDEB0073B44E /* PlaylistTrack.json */; };
+		DCEB1BFB2C291A9000E04B72 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCEB1BFA2C291A9000E04B72 /* Color.swift */; };
+		DCEB1BFD2C292BEA00E04B72 /* PlayerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCEB1BFC2C292BEA00E04B72 /* PlayerViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -22,28 +31,37 @@
 			containerPortal = DCE3904B2C22EBD00073B44E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = DCE390522C22EBD00073B44E;
-			remoteInfo = lullaby;
+			remoteInfo = gits;
 		};
 		DCE3906E2C22EBD40073B44E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = DCE3904B2C22EBD00073B44E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = DCE390522C22EBD00073B44E;
-			remoteInfo = lullaby;
+			remoteInfo = gits;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		DCE390532C22EBD00073B44E /* lullaby.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lullaby.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DCE390562C22EBD00073B44E /* lullabyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lullabyApp.swift; sourceTree = "<group>"; };
+		DC4DEBF72C271A0B00446F10 /* PlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerView.swift; sourceTree = "<group>"; };
+		DCD9F2852C243419009D135B /* TimeConterter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeConterter.swift; sourceTree = "<group>"; };
+		DCD9F2882C243F0D009D135B /* TrackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackView.swift; sourceTree = "<group>"; };
+		DCD9F28A2C2440E4009D135B /* PlaylistTrackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistTrackView.swift; sourceTree = "<group>"; };
+		DCE390532C22EBD00073B44E /* gits.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gits.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DCE390562C22EBD00073B44E /* gitsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitsApp.swift; sourceTree = "<group>"; };
 		DCE390582C22EBD00073B44E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DCE3905A2C22EBD40073B44E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DCE3905D2C22EBD40073B44E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		DCE390632C22EBD40073B44E /* lullabyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lullabyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		DCE390672C22EBD40073B44E /* lullabyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lullabyTests.swift; sourceTree = "<group>"; };
-		DCE3906D2C22EBD40073B44E /* lullabyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lullabyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		DCE390712C22EBD40073B44E /* lullabyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lullabyUITests.swift; sourceTree = "<group>"; };
-		DCE390732C22EBD40073B44E /* lullabyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lullabyUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DCE390632C22EBD40073B44E /* gitsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DCE390672C22EBD40073B44E /* gitsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitsTests.swift; sourceTree = "<group>"; };
+		DCE3906D2C22EBD40073B44E /* gitsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DCE390712C22EBD40073B44E /* gitsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitsUITests.swift; sourceTree = "<group>"; };
+		DCE390732C22EBD40073B44E /* gitsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DCE390812C22EC030073B44E /* PlaylistTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistTrack.swift; sourceTree = "<group>"; };
+		DCE390862C22ED2F0073B44E /* PlaylistTrackViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistTrackViewModel.swift; sourceTree = "<group>"; };
+		DCE390882C22EDEB0073B44E /* PlaylistTrack.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = PlaylistTrack.json; sourceTree = "<group>"; };
+		DCEB1BFA2C291A9000E04B72 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		DCEB1BFC2C292BEA00E04B72 /* PlayerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,12 +89,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DCD9F2842C2433F1009D135B /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				DCD9F2852C243419009D135B /* TimeConterter.swift */,
+				DCEB1BFA2C291A9000E04B72 /* Color.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		DCD9F2872C243EDD009D135B /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				DCD9F2882C243F0D009D135B /* TrackView.swift */,
+				DCD9F28A2C2440E4009D135B /* PlaylistTrackView.swift */,
+				DC4DEBF72C271A0B00446F10 /* PlayerView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		DCE3904A2C22EBD00073B44E = {
 			isa = PBXGroup;
 			children = (
-				DCE390552C22EBD00073B44E /* lullaby */,
-				DCE390662C22EBD40073B44E /* lullabyTests */,
-				DCE390702C22EBD40073B44E /* lullabyUITests */,
+				DCE390552C22EBD00073B44E /* gits */,
+				DCE390662C22EBD40073B44E /* gitsTests */,
+				DCE390702C22EBD40073B44E /* gitsUITests */,
 				DCE390542C22EBD00073B44E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -84,22 +121,28 @@
 		DCE390542C22EBD00073B44E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DCE390532C22EBD00073B44E /* lullaby.app */,
-				DCE390632C22EBD40073B44E /* lullabyTests.xctest */,
-				DCE3906D2C22EBD40073B44E /* lullabyUITests.xctest */,
+				DCE390532C22EBD00073B44E /* gits.app */,
+				DCE390632C22EBD40073B44E /* gitsTests.xctest */,
+				DCE3906D2C22EBD40073B44E /* gitsUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DCE390552C22EBD00073B44E /* lullaby */ = {
+		DCE390552C22EBD00073B44E /* gits */ = {
 			isa = PBXGroup;
 			children = (
-				DCE390562C22EBD00073B44E /* lullabyApp.swift */,
+				DCD9F2872C243EDD009D135B /* Views */,
+				DCD9F2842C2433F1009D135B /* Utils */,
+				DCE390832C22ECE20073B44E /* Resources */,
+				DCE390802C22EBE20073B44E /* Models */,
+				DCE390562C22EBD00073B44E /* gitsApp.swift */,
 				DCE390582C22EBD00073B44E /* ContentView.swift */,
+				DCE390862C22ED2F0073B44E /* PlaylistTrackViewModel.swift */,
+				DCEB1BFC2C292BEA00E04B72 /* PlayerViewModel.swift */,
 				DCE3905A2C22EBD40073B44E /* Assets.xcassets */,
 				DCE3905C2C22EBD40073B44E /* Preview Content */,
 			);
-			path = lullaby;
+			path = gits;
 			sourceTree = "<group>";
 		};
 		DCE3905C2C22EBD40073B44E /* Preview Content */ = {
@@ -110,29 +153,45 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		DCE390662C22EBD40073B44E /* lullabyTests */ = {
+		DCE390662C22EBD40073B44E /* gitsTests */ = {
 			isa = PBXGroup;
 			children = (
-				DCE390672C22EBD40073B44E /* lullabyTests.swift */,
+				DCE390672C22EBD40073B44E /* gitsTests.swift */,
 			);
-			path = lullabyTests;
+			path = gitsTests;
 			sourceTree = "<group>";
 		};
-		DCE390702C22EBD40073B44E /* lullabyUITests */ = {
+		DCE390702C22EBD40073B44E /* gitsUITests */ = {
 			isa = PBXGroup;
 			children = (
-				DCE390712C22EBD40073B44E /* lullabyUITests.swift */,
-				DCE390732C22EBD40073B44E /* lullabyUITestsLaunchTests.swift */,
+				DCE390712C22EBD40073B44E /* gitsUITests.swift */,
+				DCE390732C22EBD40073B44E /* gitsUITestsLaunchTests.swift */,
 			);
-			path = lullabyUITests;
+			path = gitsUITests;
+			sourceTree = "<group>";
+		};
+		DCE390802C22EBE20073B44E /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				DCE390812C22EC030073B44E /* PlaylistTrack.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		DCE390832C22ECE20073B44E /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				DCE390882C22EDEB0073B44E /* PlaylistTrack.json */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DCE390522C22EBD00073B44E /* lullaby */ = {
+		DCE390522C22EBD00073B44E /* gits */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DCE390772C22EBD50073B44E /* Build configuration list for PBXNativeTarget "lullaby" */;
+			buildConfigurationList = DCE390772C22EBD50073B44E /* Build configuration list for PBXNativeTarget "gits" */;
 			buildPhases = (
 				DCE3904F2C22EBD00073B44E /* Sources */,
 				DCE390502C22EBD00073B44E /* Frameworks */,
@@ -142,14 +201,14 @@
 			);
 			dependencies = (
 			);
-			name = lullaby;
-			productName = lullaby;
-			productReference = DCE390532C22EBD00073B44E /* lullaby.app */;
+			name = gits;
+			productName = gits;
+			productReference = DCE390532C22EBD00073B44E /* gits.app */;
 			productType = "com.apple.product-type.application";
 		};
-		DCE390622C22EBD40073B44E /* lullabyTests */ = {
+		DCE390622C22EBD40073B44E /* gitsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DCE3907A2C22EBD50073B44E /* Build configuration list for PBXNativeTarget "lullabyTests" */;
+			buildConfigurationList = DCE3907A2C22EBD50073B44E /* Build configuration list for PBXNativeTarget "gitsTests" */;
 			buildPhases = (
 				DCE3905F2C22EBD40073B44E /* Sources */,
 				DCE390602C22EBD40073B44E /* Frameworks */,
@@ -160,14 +219,14 @@
 			dependencies = (
 				DCE390652C22EBD40073B44E /* PBXTargetDependency */,
 			);
-			name = lullabyTests;
-			productName = lullabyTests;
-			productReference = DCE390632C22EBD40073B44E /* lullabyTests.xctest */;
+			name = gitsTests;
+			productName = gitsTests;
+			productReference = DCE390632C22EBD40073B44E /* gitsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		DCE3906C2C22EBD40073B44E /* lullabyUITests */ = {
+		DCE3906C2C22EBD40073B44E /* gitsUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DCE3907D2C22EBD50073B44E /* Build configuration list for PBXNativeTarget "lullabyUITests" */;
+			buildConfigurationList = DCE3907D2C22EBD50073B44E /* Build configuration list for PBXNativeTarget "gitsUITests" */;
 			buildPhases = (
 				DCE390692C22EBD40073B44E /* Sources */,
 				DCE3906A2C22EBD40073B44E /* Frameworks */,
@@ -178,9 +237,9 @@
 			dependencies = (
 				DCE3906F2C22EBD40073B44E /* PBXTargetDependency */,
 			);
-			name = lullabyUITests;
-			productName = lullabyUITests;
-			productReference = DCE3906D2C22EBD40073B44E /* lullabyUITests.xctest */;
+			name = gitsUITests;
+			productName = gitsUITests;
+			productReference = DCE3906D2C22EBD40073B44E /* gitsUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -206,7 +265,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DCE3904E2C22EBD00073B44E /* Build configuration list for PBXProject "lullaby" */;
+			buildConfigurationList = DCE3904E2C22EBD00073B44E /* Build configuration list for PBXProject "gits" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -219,9 +278,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DCE390522C22EBD00073B44E /* lullaby */,
-				DCE390622C22EBD40073B44E /* lullabyTests */,
-				DCE3906C2C22EBD40073B44E /* lullabyUITests */,
+				DCE390522C22EBD00073B44E /* gits */,
+				DCE390622C22EBD40073B44E /* gitsTests */,
+				DCE3906C2C22EBD40073B44E /* gitsUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -232,6 +291,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DCE3905E2C22EBD40073B44E /* Preview Assets.xcassets in Resources */,
+				DCE390892C22EDEB0073B44E /* PlaylistTrack.json in Resources */,
 				DCE3905B2C22EBD40073B44E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -257,8 +317,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DCE390822C22EC030073B44E /* PlaylistTrack.swift in Sources */,
+				DCEB1BFD2C292BEA00E04B72 /* PlayerViewModel.swift in Sources */,
 				DCE390592C22EBD00073B44E /* ContentView.swift in Sources */,
-				DCE390572C22EBD00073B44E /* lullabyApp.swift in Sources */,
+				DCE390872C22ED2F0073B44E /* PlaylistTrackViewModel.swift in Sources */,
+				DC4DEBF82C271A0B00446F10 /* PlayerView.swift in Sources */,
+				DCE390572C22EBD00073B44E /* gitsApp.swift in Sources */,
+				DCD9F2892C243F0D009D135B /* TrackView.swift in Sources */,
+				DCD9F28B2C2440E4009D135B /* PlaylistTrackView.swift in Sources */,
+				DCD9F2862C243419009D135B /* TimeConterter.swift in Sources */,
+				DCEB1BFB2C291A9000E04B72 /* Color.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +334,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DCE390682C22EBD40073B44E /* lullabyTests.swift in Sources */,
+				DCE390682C22EBD40073B44E /* gitsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,8 +342,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DCE390742C22EBD40073B44E /* lullabyUITestsLaunchTests.swift in Sources */,
-				DCE390722C22EBD40073B44E /* lullabyUITests.swift in Sources */,
+				DCE390742C22EBD40073B44E /* gitsUITestsLaunchTests.swift in Sources */,
+				DCE390722C22EBD40073B44E /* gitsUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,12 +352,12 @@
 /* Begin PBXTargetDependency section */
 		DCE390652C22EBD40073B44E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DCE390522C22EBD00073B44E /* lullaby */;
+			target = DCE390522C22EBD00073B44E /* gits */;
 			targetProxy = DCE390642C22EBD40073B44E /* PBXContainerItemProxy */;
 		};
 		DCE3906F2C22EBD40073B44E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DCE390522C22EBD00073B44E /* lullaby */;
+			target = DCE390522C22EBD00073B44E /* gits */;
 			targetProxy = DCE3906E2C22EBD40073B44E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -421,7 +489,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"lullaby/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"gits/Preview Content\"";
 				DEVELOPMENT_TEAM = YQP52N2TK8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -435,7 +503,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.lullaby;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.gits;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -450,7 +518,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"lullaby/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"gits/Preview Content\"";
 				DEVELOPMENT_TEAM = YQP52N2TK8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -464,7 +532,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.lullaby;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.gits;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -483,12 +551,12 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.lullabyTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.gitsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/lullaby.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/lullaby";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/gits.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/gits";
 			};
 			name = Debug;
 		};
@@ -503,12 +571,12 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.lullabyTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.gitsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/lullaby.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/lullaby";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/gits.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/gits";
 			};
 			name = Release;
 		};
@@ -521,12 +589,12 @@
 				DEVELOPMENT_TEAM = YQP52N2TK8;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.lullabyUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.gitsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = lullaby;
+				TEST_TARGET_NAME = gits;
 			};
 			name = Debug;
 		};
@@ -539,19 +607,19 @@
 				DEVELOPMENT_TEAM = YQP52N2TK8;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.lullabyUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.gitsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = lullaby;
+				TEST_TARGET_NAME = gits;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DCE3904E2C22EBD00073B44E /* Build configuration list for PBXProject "lullaby" */ = {
+		DCE3904E2C22EBD00073B44E /* Build configuration list for PBXProject "gits" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DCE390752C22EBD40073B44E /* Debug */,
@@ -560,7 +628,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DCE390772C22EBD50073B44E /* Build configuration list for PBXNativeTarget "lullaby" */ = {
+		DCE390772C22EBD50073B44E /* Build configuration list for PBXNativeTarget "gits" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DCE390782C22EBD50073B44E /* Debug */,
@@ -569,7 +637,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DCE3907A2C22EBD50073B44E /* Build configuration list for PBXNativeTarget "lullabyTests" */ = {
+		DCE3907A2C22EBD50073B44E /* Build configuration list for PBXNativeTarget "gitsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DCE3907B2C22EBD50073B44E /* Debug */,
@@ -578,7 +646,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DCE3907D2C22EBD50073B44E /* Build configuration list for PBXNativeTarget "lullabyUITests" */ = {
+		DCE3907D2C22EBD50073B44E /* Build configuration list for PBXNativeTarget "gitsUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DCE3907E2C22EBD50073B44E /* Debug */,

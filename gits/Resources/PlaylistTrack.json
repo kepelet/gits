@@ -1,0 +1,855 @@
+{
+  "items": [
+    {
+      "added_at": "2020-08-08T10:46:43Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/11154719934"
+        },
+        "id": "11154719934",
+        "type": "user",
+        "uri": "spotify:user:11154719934"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/c1a6e477dfe993da96f4a70d09b9e16eb60907e2?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "single",
+          "id": "7sCH3XZMDiNqujNhzkDwNb",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273734c9dd69c71bd6364cab6d1",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02734c9dd69c71bd6364cab6d1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851734c9dd69c71bd6364cab6d1",
+              "width": 64
+            }
+          ],
+          "name": "Piano Lullaby",
+          "release_date": "2020-05-18",
+          "release_date_precision": "day",
+          "uri": "spotify:album:7sCH3XZMDiNqujNhzkDwNb",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7jK7XRDDeJaRbPSlp50ScT"
+              },
+              "id": "7jK7XRDDeJaRbPSlp50ScT",
+              "name": "Morislay",
+              "type": "artist",
+              "uri": "spotify:artist:7jK7XRDDeJaRbPSlp50ScT"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7sCH3XZMDiNqujNhzkDwNb"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jK7XRDDeJaRbPSlp50ScT"
+            },
+            "id": "7jK7XRDDeJaRbPSlp50ScT",
+            "name": "Morislay",
+            "type": "artist",
+            "uri": "spotify:artist:7jK7XRDDeJaRbPSlp50ScT"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 78564,
+        "external_ids": {
+          "isrc": "GBSMU7977092"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4i0AhjvMyC0d9UH3axQkgD"
+        },
+        "id": "4i0AhjvMyC0d9UH3axQkgD",
+        "name": "Piano Lullaby",
+        "popularity": 41,
+        "uri": "spotify:track:4i0AhjvMyC0d9UH3axQkgD",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-02-07T17:48:46Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/11154719934"
+        },
+        "id": "11154719934",
+        "type": "user",
+        "uri": "spotify:user:11154719934"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/b269ddb03655c2fa881c20dff7cfd5f5a4ebd11d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "single",
+          "id": "18FZDUF62fuev2fOun7xoL",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27332ec9c332f26debf09f3ac21",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0232ec9c332f26debf09f3ac21",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485132ec9c332f26debf09f3ac21",
+              "width": 64
+            }
+          ],
+          "name": "Calm Night",
+          "release_date": "2020-02-03",
+          "release_date_precision": "day",
+          "uri": "spotify:album:18FZDUF62fuev2fOun7xoL",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7jK7XRDDeJaRbPSlp50ScT"
+              },
+              "id": "7jK7XRDDeJaRbPSlp50ScT",
+              "name": "Morislay",
+              "type": "artist",
+              "uri": "spotify:artist:7jK7XRDDeJaRbPSlp50ScT"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/18FZDUF62fuev2fOun7xoL"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jK7XRDDeJaRbPSlp50ScT"
+            },
+            "id": "7jK7XRDDeJaRbPSlp50ScT",
+            "name": "Morislay",
+            "type": "artist",
+            "uri": "spotify:artist:7jK7XRDDeJaRbPSlp50ScT"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 97268,
+        "external_ids": {
+          "isrc": "GBSMU7523181"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6PjExHbBJAWtX8baPXatsZ"
+        },
+        "id": "6PjExHbBJAWtX8baPXatsZ",
+        "name": "Calm Night",
+        "popularity": 39,
+        "uri": "spotify:track:6PjExHbBJAWtX8baPXatsZ",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-09-23T05:18:38Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/11154719934"
+        },
+        "id": "11154719934",
+        "type": "user",
+        "uri": "spotify:user:11154719934"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/ad8d6515abc083f9e5e532801db2255c574ca6ec?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "single",
+          "id": "2EthninBW9Bq5JAjZ10eYZ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27341ce120a5adbf1c334e0888e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0241ce120a5adbf1c334e0888e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485141ce120a5adbf1c334e0888e",
+              "width": 64
+            }
+          ],
+          "name": "Your Calm World",
+          "release_date": "2022-09-23",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2EthninBW9Bq5JAjZ10eYZ",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6MEkrrJXHLLosgcknrR2iU"
+              },
+              "id": "6MEkrrJXHLLosgcknrR2iU",
+              "name": "Maurizio Lucchetti",
+              "type": "artist",
+              "uri": "spotify:artist:6MEkrrJXHLLosgcknrR2iU"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2EthninBW9Bq5JAjZ10eYZ"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6MEkrrJXHLLosgcknrR2iU"
+            },
+            "id": "6MEkrrJXHLLosgcknrR2iU",
+            "name": "Maurizio Lucchetti",
+            "type": "artist",
+            "uri": "spotify:artist:6MEkrrJXHLLosgcknrR2iU"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 252561,
+        "external_ids": {
+          "isrc": "ITDF62254003"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4IbsJiCww1iACbC4RhzxBg"
+        },
+        "id": "4IbsJiCww1iACbC4RhzxBg",
+        "name": "Your Calm World",
+        "popularity": 32,
+        "uri": "spotify:track:4IbsJiCww1iACbC4RhzxBg",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-30T00:11:25Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/11154719934"
+        },
+        "id": "11154719934",
+        "type": "user",
+        "uri": "spotify:user:11154719934"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/eaf2deaca28151ebc3633aa92d00426f9dc4ce25?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "single",
+          "id": "1WmK2XbtCWK0Si8Lj083BV",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273060339468867aa0b705db3e9",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02060339468867aa0b705db3e9",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851060339468867aa0b705db3e9",
+              "width": 64
+            }
+          ],
+          "name": "When the Night is Coming",
+          "release_date": "2020-10-30",
+          "release_date_precision": "day",
+          "uri": "spotify:album:1WmK2XbtCWK0Si8Lj083BV",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6MEkrrJXHLLosgcknrR2iU"
+              },
+              "id": "6MEkrrJXHLLosgcknrR2iU",
+              "name": "Maurizio Lucchetti",
+              "type": "artist",
+              "uri": "spotify:artist:6MEkrrJXHLLosgcknrR2iU"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1WmK2XbtCWK0Si8Lj083BV"
+          },
+          "total_tracks": 4
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6MEkrrJXHLLosgcknrR2iU"
+            },
+            "id": "6MEkrrJXHLLosgcknrR2iU",
+            "name": "Maurizio Lucchetti",
+            "type": "artist",
+            "uri": "spotify:artist:6MEkrrJXHLLosgcknrR2iU"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 127301,
+        "external_ids": {
+          "isrc": "ITDF62054044"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29JVVaLUfiaGY6Ir55Fj44"
+        },
+        "id": "29JVVaLUfiaGY6Ir55Fj44",
+        "name": "Sea Lullaby",
+        "popularity": 32,
+        "uri": "spotify:track:29JVVaLUfiaGY6Ir55Fj44",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-03-13T19:45:41Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/11154719934"
+        },
+        "id": "11154719934",
+        "type": "user",
+        "uri": "spotify:user:11154719934"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/2ec4353e462d1a8ae76ab9d4b98110194f7af2c8?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "single",
+          "id": "0WENqKuPmZvF4tvDuE5X5W",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273fe2321456046e793a3345ba1",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02fe2321456046e793a3345ba1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851fe2321456046e793a3345ba1",
+              "width": 64
+            }
+          ],
+          "name": "Bed Time",
+          "release_date": "2022-03-11",
+          "release_date_precision": "day",
+          "uri": "spotify:album:0WENqKuPmZvF4tvDuE5X5W",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7jK7XRDDeJaRbPSlp50ScT"
+              },
+              "id": "7jK7XRDDeJaRbPSlp50ScT",
+              "name": "Morislay",
+              "type": "artist",
+              "uri": "spotify:artist:7jK7XRDDeJaRbPSlp50ScT"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0WENqKuPmZvF4tvDuE5X5W"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jK7XRDDeJaRbPSlp50ScT"
+            },
+            "id": "7jK7XRDDeJaRbPSlp50ScT",
+            "name": "Morislay",
+            "type": "artist",
+            "uri": "spotify:artist:7jK7XRDDeJaRbPSlp50ScT"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 72582,
+        "external_ids": {
+          "isrc": "GX38U2248663"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/62kpO9v7Pq4ARkAE8ArGeJ"
+        },
+        "id": "62kpO9v7Pq4ARkAE8ArGeJ",
+        "name": "Bed Time",
+        "popularity": 35,
+        "uri": "spotify:track:62kpO9v7Pq4ARkAE8ArGeJ",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2019-06-01T21:54:04Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/11154719934"
+        },
+        "id": "11154719934",
+        "type": "user",
+        "uri": "spotify:user:11154719934"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/f4a7df711c9ec6eed3da097c898765ab24e957fb?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "single",
+          "id": "2deJP2XiRTxH74TVhQvA4r",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736daf9e272d860a77280f5b09",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026daf9e272d860a77280f5b09",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516daf9e272d860a77280f5b09",
+              "width": 64
+            }
+          ],
+          "name": "Slowly",
+          "release_date": "2019-03-19",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2deJP2XiRTxH74TVhQvA4r",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6MEkrrJXHLLosgcknrR2iU"
+              },
+              "id": "6MEkrrJXHLLosgcknrR2iU",
+              "name": "Maurizio Lucchetti",
+              "type": "artist",
+              "uri": "spotify:artist:6MEkrrJXHLLosgcknrR2iU"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2deJP2XiRTxH74TVhQvA4r"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6MEkrrJXHLLosgcknrR2iU"
+            },
+            "id": "6MEkrrJXHLLosgcknrR2iU",
+            "name": "Maurizio Lucchetti",
+            "type": "artist",
+            "uri": "spotify:artist:6MEkrrJXHLLosgcknrR2iU"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 111218,
+        "external_ids": {
+          "isrc": "ITDF61954002"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0kYCv7UbmpfGs1CakSjTt6"
+        },
+        "id": "0kYCv7UbmpfGs1CakSjTt6",
+        "name": "Slowly",
+        "popularity": 38,
+        "uri": "spotify:track:0kYCv7UbmpfGs1CakSjTt6",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-05-15T14:45:42Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/11154719934"
+        },
+        "id": "11154719934",
+        "type": "user",
+        "uri": "spotify:user:11154719934"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/7bd35523dd47ea17789b4ef933f7b0c76b0af1a8?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "single",
+          "id": "6F9fDfdWCqdFOCDuYMTrTF",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2733c5a0df974bb7b2be57887d2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e023c5a0df974bb7b2be57887d2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048513c5a0df974bb7b2be57887d2",
+              "width": 64
+            }
+          ],
+          "name": "Soft Piano",
+          "release_date": "2020-05-04",
+          "release_date_precision": "day",
+          "uri": "spotify:album:6F9fDfdWCqdFOCDuYMTrTF",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7jK7XRDDeJaRbPSlp50ScT"
+              },
+              "id": "7jK7XRDDeJaRbPSlp50ScT",
+              "name": "Morislay",
+              "type": "artist",
+              "uri": "spotify:artist:7jK7XRDDeJaRbPSlp50ScT"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6F9fDfdWCqdFOCDuYMTrTF"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jK7XRDDeJaRbPSlp50ScT"
+            },
+            "id": "7jK7XRDDeJaRbPSlp50ScT",
+            "name": "Morislay",
+            "type": "artist",
+            "uri": "spotify:artist:7jK7XRDDeJaRbPSlp50ScT"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 103459,
+        "external_ids": {
+          "isrc": "GBSMU7976941"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ecE1fJaSWNjzNHwxwng75"
+        },
+        "id": "1ecE1fJaSWNjzNHwxwng75",
+        "name": "Soft Piano",
+        "popularity": 36,
+        "uri": "spotify:track:1ecE1fJaSWNjzNHwxwng75",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2024-01-19T13:54:36Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/11154719934"
+        },
+        "id": "11154719934",
+        "type": "user",
+        "uri": "spotify:user:11154719934"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/05b370acbe52400dc1c1e5efa5f8cf0e1fcbc535?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "single",
+          "id": "5UGkD1DgvvQ93pD3csJIXh",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2733ff2346e886d878d6b07bfe8",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e023ff2346e886d878d6b07bfe8",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048513ff2346e886d878d6b07bfe8",
+              "width": 64
+            }
+          ],
+          "name": "Classical Piano for Sleeping, Vol. 1",
+          "release_date": "2024-01-19",
+          "release_date_precision": "day",
+          "uri": "spotify:album:5UGkD1DgvvQ93pD3csJIXh",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7gmes5Uel2cFc1aJU7rRnY"
+              },
+              "id": "7gmes5Uel2cFc1aJU7rRnY",
+              "name": "Nico Damin",
+              "type": "artist",
+              "uri": "spotify:artist:7gmes5Uel2cFc1aJU7rRnY"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5UGkD1DgvvQ93pD3csJIXh"
+          },
+          "total_tracks": 4
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+            },
+            "id": "3MKCzCnpzw3TjUYs2v7vDA",
+            "name": "Pyotr Ilyich Tchaikovsky",
+            "type": "artist",
+            "uri": "spotify:artist:3MKCzCnpzw3TjUYs2v7vDA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7gmes5Uel2cFc1aJU7rRnY"
+            },
+            "id": "7gmes5Uel2cFc1aJU7rRnY",
+            "name": "Nico Damin",
+            "type": "artist",
+            "uri": "spotify:artist:7gmes5Uel2cFc1aJU7rRnY"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 3,
+        "duration_ms": 101578,
+        "external_ids": {
+          "isrc": "GX89G2441538"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6iLogsie44zJYh7sryOMuA"
+        },
+        "id": "6iLogsie44zJYh7sryOMuA",
+        "name": "The Seasons, Op. 37a: VI. June. Barcarolle. Andante cantabile (Excerpt)",
+        "popularity": 33,
+        "uri": "spotify:track:6iLogsie44zJYh7sryOMuA",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2023-11-25T12:54:09Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/11154719934"
+        },
+        "id": "11154719934",
+        "type": "user",
+        "uri": "spotify:user:11154719934"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/94ff563f743a82b217a9ee46e53a3b78740194d2?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "single",
+          "id": "6uQArvJmAyOh9qbkj3cSYg",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736b5d11f0cf70e72adbbd5164",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026b5d11f0cf70e72adbbd5164",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516b5d11f0cf70e72adbbd5164",
+              "width": 64
+            }
+          ],
+          "name": "Deux Arabesques, L. 66: I. Andantino con moto",
+          "release_date": "2023-11-24",
+          "release_date_precision": "day",
+          "uri": "spotify:album:6uQArvJmAyOh9qbkj3cSYg",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+              },
+              "id": "1Uff91EOsvd99rtAupatMP",
+              "name": "Claude Debussy",
+              "type": "artist",
+              "uri": "spotify:artist:1Uff91EOsvd99rtAupatMP"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6MEkrrJXHLLosgcknrR2iU"
+              },
+              "id": "6MEkrrJXHLLosgcknrR2iU",
+              "name": "Maurizio Lucchetti",
+              "type": "artist",
+              "uri": "spotify:artist:6MEkrrJXHLLosgcknrR2iU"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6uQArvJmAyOh9qbkj3cSYg"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+            },
+            "id": "1Uff91EOsvd99rtAupatMP",
+            "name": "Claude Debussy",
+            "type": "artist",
+            "uri": "spotify:artist:1Uff91EOsvd99rtAupatMP"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6MEkrrJXHLLosgcknrR2iU"
+            },
+            "id": "6MEkrrJXHLLosgcknrR2iU",
+            "name": "Maurizio Lucchetti",
+            "type": "artist",
+            "uri": "spotify:artist:6MEkrrJXHLLosgcknrR2iU"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 257513,
+        "external_ids": {
+          "isrc": "ITDF62354008"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3TlowOm7G7goJbRJI55tiC"
+        },
+        "id": "3TlowOm7G7goJbRJI55tiC",
+        "name": "Deux Arabesques, L. 66: I. Andantino con moto",
+        "popularity": 31,
+        "uri": "spotify:track:3TlowOm7G7goJbRJI55tiC",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    }
+  ],
+  "limit": 100,
+  "next": true,
+  "offset": 0,
+  "previous": null,
+  "total": 205
+}

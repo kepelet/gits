@@ -1,14 +1,14 @@
 //
-//  lullabyTests.swift
-//  lullabyTests
+//  gitsTests.swift
+//  gitsTests
 //
 //  Created by Alvin Miftah on 19/06/24.
 //
 
 import XCTest
-@testable import lullaby
+@testable import gits
 
-final class lullabyTests: XCTestCase {
+final class gitsTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
